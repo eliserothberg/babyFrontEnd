@@ -1,0 +1,73 @@
+.container-fluid {
+   padding: 0px !important;
+   background-size: cover;
+}
+
+.headerBackground {
+  background-size: cover;
+  height: 315px;
+}
+
+.bar {
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 8%;
+  font-weight: bold;
+ font-size: 5em;
+  font-family: 'Zeyada', cursive;
+}
+
+.block {
+  padding-left: 28px;
+  padding-bottom: 20px;
+}
+
+button {
+  padding: 10px;
+  margin-left: 15px
+
+}
+#pinkButton {
+  background-color: #FFBBDD;
+}
+
+#greenButton {
+  background-color: #2DC800;
+}
+
+#blueButton {
+  background-color: #62D0FF;
+}
+
+p {
+  font-family: 'Futura', 'Helvetica';
+  font-size: 1.25em;
+}
+
+footer {
+  text-align: center;
+  background-color: #ECF4FF;
+  height: 50px;
+}
+
+#feetsL {
+  float: left;
+}
+#feetsR {
+  float: right;
+}
+
+#footerText {
+  padding-top: 15px;
+  padding-right: 0px;
+  font-size: .75em;
+}
+
+/*#displayFromLetter,
+#displayFromUserInput {
+ 
+}*/
